@@ -1,4 +1,4 @@
-// serie de Fibonacci
+ // serie de Fibonacci
 //Muestra los primeros N términos de la serie de Fibonacci utilizando while.
 #include <iostream>
 using namespace std;
